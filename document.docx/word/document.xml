@@ -8,7 +8,9 @@
 </w:p><w:p w14:paraId="71BDBEA7" w14:textId="5D438B6E" w:rsidR="00712386" w:rsidRPr="00712386" w:rsidRDefault="00712386" w:rsidP="00712386"><w:pPr><w:rPr><w:lang w:val="en-US"/>
 </w:rPr></w:pPr><w:r w:rsidRPr="00712386"><w:t xml:space="preserve">Diese </w:t></w:r><w:r w:rsidR="002B01B5"><w:t>Datei</w:t></w:r><w:r w:rsidRPr="00712386"><w:t xml:space="preserve"> dient zur Eruierung der Praktikabilität von </w:t></w:r><w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00712386"><w:t>Git</w:t></w:r><w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00712386"><w:t xml:space="preserve">-Hooks zur </w:t></w:r><w:r w:rsidR="00D55A1B" w:rsidRPr="00D55A1B"><w:t>Präparierung</w:t></w:r><w:r w:rsidR="00D55A1B"><w:t xml:space="preserve"> </w:t></w:r><w:r w:rsidRPr="00712386"><w:t>von ISO/IEC 29500 (.</w:t></w:r><w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00712386"><w:t xml:space="preserve">-Hooks zur </w:t></w:r><w:r w:rsidR="00D55A1B" w:rsidRPr="00D55A1B"><w:t>Präparierung</w:t></w:r><w:r w:rsidR="00D55A1B"><w:t xml:space="preserve"> </w:t></w:r><w:r w:rsidRPr="00712386"><w:t>von ISO/IEC 29500 (</w:t></w:r><w:bookmarkStart w:id="0" w:name="_GoBack"/>
+<w:bookmarkEnd w:id="0"/>
+<w:r w:rsidRPr="00712386"><w:t>.</w:t></w:r><w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00712386"><w:t>docx</w:t></w:r><w:proofErr w:type="spellEnd"/>
 <w:r w:rsidRPr="00712386"><w:t>) und ISO/IEC 26300 (.</w:t></w:r><w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00712386"><w:t>odf</w:t></w:r><w:proofErr w:type="spellEnd"/>
@@ -36,9 +38,7 @@
 </w:rPr><w:t xml:space="preserve"> </w:t></w:r></w:p><w:p w14:paraId="17480515" w14:textId="77777777" w:rsidR="00712386" w:rsidRPr="00712386" w:rsidRDefault="00712386" w:rsidP="00712386"><w:pPr><w:pStyle w:val="berschrift1"/>
 <w:rPr><w:lang w:val="en-US"/>
 </w:rPr></w:pPr><w:r w:rsidRPr="00712386"><w:rPr><w:lang w:val="en-US"/>
-</w:rPr><w:t>Dolor</w:t></w:r><w:bookmarkStart w:id="0" w:name="_GoBack"/>
-<w:bookmarkEnd w:id="0"/>
-</w:p><w:p w14:paraId="40F7A635" w14:textId="77777777" w:rsidR="00712386" w:rsidRPr="00712386" w:rsidRDefault="00712386" w:rsidP="00712386"><w:pPr><w:rPr><w:lang w:val="en-US"/>
+</w:rPr><w:t>Dolor</w:t></w:r></w:p><w:p w14:paraId="40F7A635" w14:textId="77777777" w:rsidR="00712386" w:rsidRPr="00712386" w:rsidRDefault="00712386" w:rsidP="00712386"><w:pPr><w:rPr><w:lang w:val="en-US"/>
 </w:rPr></w:pPr><w:r w:rsidRPr="00712386"><w:rPr><w:lang w:val="en-US"/>
 </w:rPr><w:t>ISO/IEC 29500 specifies a family of XML schemas, collectively called Office Open XML, which define the XML vocabularies for word-processing, spreadsheet, and presentation documents, as well as the packaging of documents that conform to these schemas. The goal is to enable the implementation of the Office Open XML formats by the widest set of tools and platforms, fostering interoperability across office productivity applications and line-of-business systems, as well as to support and strengthen document archival and preservation, all in a way that is fully compatible with the existing corpus of Microsoft Office documents.</w:t></w:r></w:p><w:p w14:paraId="77B02634" w14:textId="77777777" w:rsidR="00712386" w:rsidRPr="00712386" w:rsidRDefault="00712386" w:rsidP="00712386"><w:pPr><w:pStyle w:val="berschrift1"/>
 <w:rPr><w:lang w:val="en-US"/>

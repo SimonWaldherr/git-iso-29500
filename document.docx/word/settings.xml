@@ -4,7 +4,6 @@
 <w:defaultTabStop w:val="708"/>
 <w:hyphenationZone w:val="425"/>
 <w:characterSpacingControl w:val="doNotCompress"/>
-<w:savePreviewPicture/>
 <w:compat><w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15"/>
 <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
 <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
@@ -14,8 +13,10 @@
 <w:rsid w:val="002B01B5"/>
 <w:rsid w:val="00384D3C"/>
 <w:rsid w:val="003C183E"/>
+<w:rsid w:val="004E25A8"/>
 <w:rsid w:val="005A5794"/>
 <w:rsid w:val="006D2205"/>
+<w:rsid w:val="006E4275"/>
 <w:rsid w:val="00712386"/>
 <w:rsid w:val="00763EAF"/>
 <w:rsid w:val="007B48DD"/>
